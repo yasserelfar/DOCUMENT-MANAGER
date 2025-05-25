@@ -3,4 +3,6 @@ export default {
     tailwindcss: {},
     autoprefixer: {},
   },
+  base: '/DOCUMENT-MANAGER/',
+
 };
