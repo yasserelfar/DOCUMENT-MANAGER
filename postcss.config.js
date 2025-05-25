@@ -3,7 +3,6 @@ export default {
     tailwindcss: {},
     autoprefixer: {},
   },
-  base: '/DOCUMENT-MANAGER/',
   optimizeDeps: {
       exclude: ['lucide-react'],
     },
