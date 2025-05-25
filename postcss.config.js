@@ -4,5 +4,7 @@ export default {
     autoprefixer: {},
   },
   base: '/DOCUMENT-MANAGER/',
-
+  optimizeDeps: {
+      exclude: ['lucide-react'],
+    },
 };
